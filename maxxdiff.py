@@ -20,7 +20,7 @@ def maxxdiff(my_list):
     if maxx>minn:
         print (my_list[maxx]-my_list[minn])
     else:
-        sol=new_index(maxx,minn,myy_list)
+        sol=new_index(maxx,minn,my_list)
         print (sol)
 
 my_list=[9,5,6,8,10]
